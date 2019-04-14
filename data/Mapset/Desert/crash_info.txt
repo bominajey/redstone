@@ -1,0 +1,11 @@
+crash	1536,1636
+crash	1637,1767
+crash	1792,1935
+crash	1024,1039
+crash	2048,2195
+block	1536,1636
+block	1637,1767
+block	1792,1939
+block	1024,1039
+block	2048,2195
+

@@ -1,0 +1,7 @@
+crash	2560, 2707
+crash	768, 779
+crash	1792, 1939
+crash	2048, 2195
+crash	2304, 2455
+crash	1024, 1039
+crash	2816, 3047

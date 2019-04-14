@@ -1,0 +1,25 @@
+//========================================================================================================
+Application Begin Time 2019/ 4/12  9:31: 4
+Current Time           2019/ 4/12  9:34:44
+
+[version 0.0635] [date:Fri Mar  8 14_31_38 2019] [rev:12622]
+Error in CDecoder::Upload - can not find 'config.txt' file
+winsock initialized
+s_sprLoadImage.Load
+g_sprLoading.Load
+BSC
+s_thLoading.Create
+LoadData - begin
+LoadData - LoadCheckObjectInfo
+LoadData - g_sprInterface.Load
+LoadData - g_project.load
+LoadData - g_am.close
+LoadData - g_sm.init
+LoadData - g_titleManager.init
+LoadData - g_guildManager.init
+LoadData - g_itemCountWindow.init
+LoadData - g_hero.reset
+read character data
+error in cSocket::send - The descriptor is not a socket.
+winsock closed
+//========================================================================================================

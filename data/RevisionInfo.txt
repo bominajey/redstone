@@ -1,0 +1,8 @@
+User		11569
+Avatar		11569
+World		11569
+Game		11569
+Login		11569
+Bcs		11569
+Client		11569
+Client_Version	842
